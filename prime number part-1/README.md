@@ -21,8 +21,8 @@
 
 ### Expected output :
 
- ![exepected output 1](./image/1.jpg)
+ ![exepected output 1](./images/1.jpg)
 
- ![exepected output 2](./image/2.jpg)
+ ![exepected output 2](./images/2.jpg)
 
 
