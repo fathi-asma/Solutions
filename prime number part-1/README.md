@@ -21,8 +21,8 @@
 
 ### Expected output :
 
- ![alt text](1.jpg)
+ ![exepected output 1](./images/1.jpg)
 
- ![alt text](2.jpg)
+ ![exepected output 2](./images/2.jpg)
 
 
